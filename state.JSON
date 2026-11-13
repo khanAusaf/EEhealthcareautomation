@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "g_state",
+      "value": "{\"i_l\":1,\"i_ll\":1794309179978,\"i_b\":\"ldryjq0CnCboJMRjUY4MXh2/JdgTJ56yw5R3FoldlIg\",\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1794309179978}",
+      "domain": "orange-sand-05f613300.7.azurestaticapps.net",
+      "path": "/",
+      "expires": 1809861179,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}
